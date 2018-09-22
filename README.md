@@ -1,5 +1,5 @@
 # Python-ParaPhrasing
-This para phrasing script uses google translation module to do that but not using their paid api or anything.
+This para phrasing script uses google translation module to do that but not using their paid api.
 
 Use the function as:
 .... paraPhrase("YOUR TEXT")
